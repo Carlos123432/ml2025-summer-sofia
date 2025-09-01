@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""module8_metrics-scikit
-
-Original file is located at
-    https://colab.research.google.com/drive/1aCiU-Wgh7nftvBSQyqF4eukXuXAyxTQM
-"""
-
 import numpy as np
 from sklearn.metrics import precision_score, recall_score
 
